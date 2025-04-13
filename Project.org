@@ -1,0 +1,5 @@
+#+title: Project
+
+* Part I - Gathering Data
+* Part II - Formulate the classification problem / features
+Within the project, we aim to classify different types of network flows as either malicious or non-malicious.
